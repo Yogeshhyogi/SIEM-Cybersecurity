@@ -1,0 +1,383 @@
+192.168.107.133 | <38>Jan  3 10:16:48 ubserver3 sshd[2124]: Received disconnect from 192.168.107.132 port 52764:11: Bye Bye [preauth]
+192.168.107.133 | <38>Jan  3 10:16:48 ubserver3 sshd[2124]: Disconnected from authenticating user root 192.168.107.132 port 52764 [preauth]
+192.168.107.133 | <35>Jan  3 10:16:48 ubserver3 sshd[914]: error: beginning MaxStartups throttling
+192.168.107.133 | <38>Jan  3 10:16:48 ubserver3 sshd[914]: drop connection #10 from [192.168.107.132]:52858 on [192.168.107.133]:22 past MaxStartups
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2126]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2130]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2127]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2129]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2128]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2131]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2135]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2134]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2132]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2136]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2139]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2138]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:16:48 ubserver3 sshd[2137]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2126]: Failed password for root from 192.168.107.132 port 52768 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2130]: Failed password for root from 192.168.107.132 port 52810 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2129]: Failed password for root from 192.168.107.132 port 52794 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2127]: Failed password for root from 192.168.107.132 port 52774 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2128]: Failed password for root from 192.168.107.132 port 52778 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2131]: Failed password for root from 192.168.107.132 port 52826 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2135]: Failed password for root from 192.168.107.132 port 52852 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2133]: Failed password for root from 192.168.107.132 port 52846 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2134]: Failed password for root from 192.168.107.132 port 52848 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2132]: Failed password for root from 192.168.107.132 port 52842 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2136]: Failed password for root from 192.168.107.132 port 52860 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2139]: Failed password for root from 192.168.107.132 port 52882 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2138]: Failed password for root from 192.168.107.132 port 52866 ssh2
+192.168.107.133 | <38>Jan  3 10:16:50 ubserver3 sshd[2137]: Failed password for root from 192.168.107.132 port 52862 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2134]: Failed password for root from 192.168.107.132 port 52848 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2126]: Failed password for root from 192.168.107.132 port 52768 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2127]: Failed password for root from 192.168.107.132 port 52774 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2130]: Failed password for root from 192.168.107.132 port 52810 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2129]: Failed password for root from 192.168.107.132 port 52794 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2128]: Failed password for root from 192.168.107.132 port 52778 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2131]: Failed password for root from 192.168.107.132 port 52826 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2132]: Failed password for root from 192.168.107.132 port 52842 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2133]: Failed password for root from 192.168.107.132 port 52846 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2135]: Failed password for root from 192.168.107.132 port 52852 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2139]: Failed password for root from 192.168.107.132 port 52882 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2136]: Failed password for root from 192.168.107.132 port 52860 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2137]: Failed password for root from 192.168.107.132 port 52862 ssh2
+192.168.107.133 | <38>Jan  3 10:16:53 ubserver3 sshd[2138]: Failed password for root from 192.168.107.132 port 52866 ssh2
+192.168.107.133 | <38>Jan  3 10:16:55 ubserver3 sshd[2134]: Failed password for root from 192.168.107.132 port 52848 ssh2
+192.168.107.133 | <38>Jan  3 10:16:55 ubserver3 sshd[2139]: Failed password for root from 192.168.107.132 port 52882 ssh2
+192.168.107.133 | <38>Jan  3 10:16:55 ubserver3 sshd[2136]: Failed password for root from 192.168.107.132 port 52860 ssh2
+192.168.107.133 | <38>Jan  3 10:16:55 ubserver3 sshd[2137]: Failed password for root from 192.168.107.132 port 52862 ssh2
+192.168.107.133 | <38>Jan  3 10:16:55 ubserver3 sshd[2138]: Failed password for root from 192.168.107.132 port 52866 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2126]: Failed password for root from 192.168.107.132 port 52768 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2127]: Failed password for root from 192.168.107.132 port 52774 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2130]: Failed password for root from 192.168.107.132 port 52810 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2129]: Failed password for root from 192.168.107.132 port 52794 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2128]: Failed password for root from 192.168.107.132 port 52778 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2131]: Failed password for root from 192.168.107.132 port 52826 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2132]: Failed password for root from 192.168.107.132 port 52842 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2133]: Failed password for root from 192.168.107.132 port 52846 ssh2
+192.168.107.133 | <38>Jan  3 10:16:57 ubserver3 sshd[2135]: Failed password for root from 192.168.107.132 port 52852 ssh2
+192.168.107.133 | <38>Jan  3 10:16:58 ubserver3 sshd[2134]: Failed password for root from 192.168.107.132 port 52848 ssh2
+192.168.107.133 | <38>Jan  3 10:16:59 ubserver3 sshd[2136]: Failed password for root from 192.168.107.132 port 52860 ssh2
+192.168.107.133 | <38>Jan  3 10:16:59 ubserver3 sshd[2139]: Failed password for root from 192.168.107.132 port 52882 ssh2
+192.168.107.133 | <38>Jan  3 10:16:59 ubserver3 sshd[2138]: Failed password for root from 192.168.107.132 port 52866 ssh2
+192.168.107.133 | <38>Jan  3 10:16:59 ubserver3 sshd[2137]: Failed password for root from 192.168.107.132 port 52862 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2134]: Connection closed by authenticating user root 192.168.107.132 port 52848 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2134]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2134]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2136]: Connection closed by authenticating user root 192.168.107.132 port 52860 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2136]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2136]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2139]: Connection closed by authenticating user root 192.168.107.132 port 52882 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2139]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2139]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2138]: Connection closed by authenticating user root 192.168.107.132 port 52866 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2138]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2138]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2137]: Connection closed by authenticating user root 192.168.107.132 port 52862 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2137]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:00 ubserver3 sshd[2137]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2126]: Failed password for root from 192.168.107.132 port 52768 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2127]: Failed password for root from 192.168.107.132 port 52774 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2130]: Failed password for root from 192.168.107.132 port 52810 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2129]: Failed password for root from 192.168.107.132 port 52794 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2128]: Failed password for root from 192.168.107.132 port 52778 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2131]: Failed password for root from 192.168.107.132 port 52826 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2132]: Failed password for root from 192.168.107.132 port 52842 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2133]: Failed password for root from 192.168.107.132 port 52846 ssh2
+192.168.107.133 | <38>Jan  3 10:17:00 ubserver3 sshd[2135]: Failed password for root from 192.168.107.132 port 52852 ssh2
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2126]: Connection closed by authenticating user root 192.168.107.132 port 52768 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2126]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2126]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2127]: Connection closed by authenticating user root 192.168.107.132 port 52774 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2127]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2127]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2129]: Connection closed by authenticating user root 192.168.107.132 port 52794 [preauth]
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2130]: Connection closed by authenticating user root 192.168.107.132 port 52810 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2130]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2130]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2129]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2129]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2128]: Connection closed by authenticating user root 192.168.107.132 port 52778 [preauth]
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2132]: Connection closed by authenticating user root 192.168.107.132 port 52842 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2132]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2132]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2133]: Connection closed by authenticating user root 192.168.107.132 port 52846 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2133]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2133]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2131]: Connection closed by authenticating user root 192.168.107.132 port 52826 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2131]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2131]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:17:01 ubserver3 sshd[2135]: Connection closed by authenticating user root 192.168.107.132 port 52852 [preauth]
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2135]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2135]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2128]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:17:01 ubserver3 sshd[2128]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <86>Jan  3 10:17:01 ubserver3 CRON[2154]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+192.168.107.133 | <78>Jan  3 10:17:01 ubserver3 CRON[2155]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+192.168.107.133 | <86>Jan  3 10:17:01 ubserver3 CRON[2154]: pam_unix(cron:session): session closed for user root
+192.168.107.133 | <38>Jan  3 10:21:51 ubserver3 sshd[914]: exited MaxStartups throttling after 00:05:03, 2 connections dropped
+192.168.107.133 | <38>Jan  3 10:21:51 ubserver3 sshd[2163]: Received disconnect from 192.168.107.132 port 51108:11: Bye Bye [preauth]
+192.168.107.133 | <38>Jan  3 10:21:51 ubserver3 sshd[2163]: Disconnected from authenticating user root 192.168.107.132 port 51108 [preauth]
+192.168.107.133 | <35>Jan  3 10:21:51 ubserver3 sshd[914]: error: beginning MaxStartups throttling
+192.168.107.133 | <38>Jan  3 10:21:51 ubserver3 sshd[914]: drop connection #13 from [192.168.107.132]:40348 on [192.168.107.133]:22 past MaxStartups
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2165]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2166]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2169]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2167]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2171]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2172]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2168]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2173]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2170]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2174]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2175]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2176]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2178]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:21:51 ubserver3 sshd[2177]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2165]: Failed password for root from 192.168.107.132 port 40262 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2166]: Failed password for root from 192.168.107.132 port 40272 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2169]: Failed password for root from 192.168.107.132 port 40290 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2167]: Failed password for root from 192.168.107.132 port 40278 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2171]: Failed password for root from 192.168.107.132 port 40308 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2172]: Failed password for root from 192.168.107.132 port 40318 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2168]: Failed password for root from 192.168.107.132 port 40280 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2173]: Failed password for root from 192.168.107.132 port 40320 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2170]: Failed password for root from 192.168.107.132 port 40296 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2174]: Failed password for root from 192.168.107.132 port 40324 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2175]: Failed password for root from 192.168.107.132 port 40326 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2176]: Failed password for root from 192.168.107.132 port 40332 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2177]: Failed password for root from 192.168.107.132 port 40340 ssh2
+192.168.107.133 | <38>Jan  3 10:21:53 ubserver3 sshd[2178]: Failed password for root from 192.168.107.132 port 40362 ssh2
+192.168.107.133 | <38>Jan  3 10:21:55 ubserver3 sshd[2177]: Failed password for root from 192.168.107.132 port 40340 ssh2
+192.168.107.133 | <38>Jan  3 10:21:56 ubserver3 sshd[2165]: Failed password for root from 192.168.107.132 port 40262 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2166]: Failed password for root from 192.168.107.132 port 40272 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2167]: Failed password for root from 192.168.107.132 port 40278 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2168]: Failed password for root from 192.168.107.132 port 40280 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2169]: Failed password for root from 192.168.107.132 port 40290 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2172]: Failed password for root from 192.168.107.132 port 40318 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2171]: Failed password for root from 192.168.107.132 port 40308 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2170]: Failed password for root from 192.168.107.132 port 40296 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2173]: Failed password for root from 192.168.107.132 port 40320 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2174]: Failed password for root from 192.168.107.132 port 40324 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2175]: Failed password for root from 192.168.107.132 port 40326 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2178]: Failed password for root from 192.168.107.132 port 40362 ssh2
+192.168.107.133 | <38>Jan  3 10:21:57 ubserver3 sshd[2176]: Failed password for root from 192.168.107.132 port 40332 ssh2
+192.168.107.133 | <38>Jan  3 10:21:58 ubserver3 sshd[2177]: Failed password for root from 192.168.107.132 port 40340 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2165]: Failed password for root from 192.168.107.132 port 40262 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2166]: Failed password for root from 192.168.107.132 port 40272 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2167]: Failed password for root from 192.168.107.132 port 40278 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2168]: Failed password for root from 192.168.107.132 port 40280 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2169]: Failed password for root from 192.168.107.132 port 40290 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2172]: Failed password for root from 192.168.107.132 port 40318 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2171]: Failed password for root from 192.168.107.132 port 40308 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2170]: Failed password for root from 192.168.107.132 port 40296 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2173]: Failed password for root from 192.168.107.132 port 40320 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2174]: Failed password for root from 192.168.107.132 port 40324 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2175]: Failed password for root from 192.168.107.132 port 40326 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2178]: Failed password for root from 192.168.107.132 port 40362 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2176]: Failed password for root from 192.168.107.132 port 40332 ssh2
+192.168.107.133 | <38>Jan  3 10:22:00 ubserver3 sshd[2177]: Failed password for root from 192.168.107.132 port 40340 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2165]: Failed password for root from 192.168.107.132 port 40262 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2166]: Failed password for root from 192.168.107.132 port 40272 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2167]: Failed password for root from 192.168.107.132 port 40278 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2168]: Failed password for root from 192.168.107.132 port 40280 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2169]: Failed password for root from 192.168.107.132 port 40290 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2172]: Failed password for root from 192.168.107.132 port 40318 ssh2
+192.168.107.133 | <38>Jan  3 10:22:03 ubserver3 sshd[2171]: Failed password for root from 192.168.107.132 port 40308 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2170]: Failed password for root from 192.168.107.132 port 40296 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2173]: Failed password for root from 192.168.107.132 port 40320 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2174]: Failed password for root from 192.168.107.132 port 40324 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2175]: Failed password for root from 192.168.107.132 port 40326 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2178]: Failed password for root from 192.168.107.132 port 40362 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2176]: Failed password for root from 192.168.107.132 port 40332 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2177]: Failed password for root from 192.168.107.132 port 40340 ssh2
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2165]: Connection closed by authenticating user root 192.168.107.132 port 40262 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2165]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2165]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2166]: Connection closed by authenticating user root 192.168.107.132 port 40272 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2166]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2166]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2167]: Connection closed by authenticating user root 192.168.107.132 port 40278 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2167]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2167]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2168]: Connection closed by authenticating user root 192.168.107.132 port 40280 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2168]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2168]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2169]: Connection closed by authenticating user root 192.168.107.132 port 40290 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2169]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2169]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2172]: Connection closed by authenticating user root 192.168.107.132 port 40318 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2172]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2172]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2171]: Connection closed by authenticating user root 192.168.107.132 port 40308 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2171]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2171]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2170]: Connection closed by authenticating user root 192.168.107.132 port 40296 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2170]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2170]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:04 ubserver3 sshd[2173]: Connection closed by authenticating user root 192.168.107.132 port 40320 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2173]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:04 ubserver3 sshd[2173]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:05 ubserver3 sshd[2174]: Connection closed by authenticating user root 192.168.107.132 port 40324 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2174]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2174]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:05 ubserver3 sshd[2175]: Connection closed by authenticating user root 192.168.107.132 port 40326 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2175]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2175]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:05 ubserver3 sshd[2178]: Connection closed by authenticating user root 192.168.107.132 port 40362 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2178]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2178]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:05 ubserver3 sshd[2176]: Connection closed by authenticating user root 192.168.107.132 port 40332 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2176]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2176]: PAM service(sshd) ignoring max retries; 4 > 3
+192.168.107.133 | <38>Jan  3 10:22:05 ubserver3 sshd[2177]: Connection closed by authenticating user root 192.168.107.132 port 40340 [preauth]
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2177]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.107.132  user=root
+192.168.107.133 | <85>Jan  3 10:22:05 ubserver3 sshd[2177]: PAM service(sshd) ignoring max retries; 5 > 3
+192.168.107.133 | <190>Jan  3 10:22:05 ubserver3 web_server: 192.168.107.132 - - [03/Jan/2026:10:22:05 +0000] "GET /?search=%3Cscript%3Ealert(1)%3C/script%3E HTTP/1.1" 200 10926 "-" "GSS-Test-Agent"
+192.168.107.133 | <190>Jan  3 10:22:08 ubserver3 web_server: 192.168.107.132 - - [03/Jan/2026:10:22:08 +0000] "GET /index.php?id=1'%20UNION%20SELECT%20NULL,NULL,NULL-- HTTP/1.1" 404 438 "-" "GSS-Test-Agent"
+192.168.107.133 | <86>Jan  3 10:25:01 ubserver3 CRON[2195]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+192.168.107.133 | <78>Jan  3 10:25:01 ubserver3 CRON[2196]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+192.168.107.133 | <86>Jan  3 10:25:01 ubserver3 CRON[2195]: pam_unix(cron:session): session closed for user root
+192.168.107.133 | <86>Jan  3 10:29:40 ubserver3 login[1064]: pam_unix(login:session): session closed for user ubserver3
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: Started getty@tty6.service - Getty on tty6.
+192.168.107.133 | <38>Jan  3 10:29:40 ubserver3 systemd-logind[825]: Session 1 logged out. Waiting for processes to exit.
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: getty@tty1.service: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: getty@tty1.service: Consumed 1.550s CPU time.
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: session-1.scope: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: getty@tty1.service: Scheduled restart job, restart counter is at 1.
+192.168.107.133 | <30>Jan  3 10:29:40 ubserver3 systemd[1]: Started getty@tty1.service - Getty on tty1.
+192.168.107.133 | <38>Jan  3 10:29:40 ubserver3 systemd-logind[825]: Removed session 1.
+192.168.107.133 | <83>Jan  3 10:29:50 ubserver3 login[2203]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+192.168.107.133 | <83>Jan  3 10:29:50 ubserver3 login[2203]: PAM adding faulty module: pam_lastlog.so
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: Stopping user@1000.service - User Manager for UID 1000...
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Activating special unit exit.target...
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped target default.target - Main User Target.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped target basic.target - Basic System.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped target paths.target - Paths.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped target sockets.target - Sockets.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped target timers.target - Timers.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed dbus.socket - D-Bus User Message Bus Socket.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed keyboxd.socket - GnuPG public key management service.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed pk-debconf-helper.socket - debconf communication socket.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed snapd.session-agent.socket - REST API socket for snapd user session agent.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Removed slice app.slice - User Application Slice.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Reached target shutdown.target - Shutdown.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Finished systemd-exit.service - Exit the Session.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1474]: Reached target exit.target - Exit the Session.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: user@1000.service: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: Stopped user@1000.service - User Manager for UID 1000.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: Stopping user-runtime-dir@1000.service - User Runtime Directory /run/user/1000...
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: run-user-1000.mount: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: user-runtime-dir@1000.service: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: Stopped user-runtime-dir@1000.service - User Runtime Directory /run/user/1000.
+192.168.107.133 | <30>Jan  3 10:29:50 ubserver3 systemd[1]: Removed slice user-1000.slice - User Slice of UID 1000.
+192.168.107.133 | <86>Jan  3 10:29:53 ubserver3 login[2203]: pam_unix(login:session): session opened for user ubserver3(uid=1000) by ubserver3(uid=0)
+192.168.107.133 | <30>Jan  3 10:29:53 ubserver3 systemd[1]: Created slice user-1000.slice - User Slice of UID 1000.
+192.168.107.133 | <30>Jan  3 10:29:53 ubserver3 systemd[1]: Starting user-runtime-dir@1000.service - User Runtime Directory /run/user/1000...
+192.168.107.133 | <38>Jan  3 10:29:53 ubserver3 systemd-logind[825]: New session 20 of user ubserver3.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[1]: Finished user-runtime-dir@1000.service - User Runtime Directory /run/user/1000.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[1]: Starting user@1000.service - User Manager for UID 1000...
+192.168.107.133 | <86>Jan  3 10:29:54 ubserver3 (systemd): pam_unix(systemd-user:session): session opened for user ubserver3(uid=1000) by ubserver3(uid=0)
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Queued start job for default target default.target.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Created slice app.slice - User Application Slice.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Reached target paths.target - Paths.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Reached target timers.target - Timers.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Starting dbus.socket - D-Bus User Message Bus Socket...
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on keyboxd.socket - GnuPG public key management service.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on pk-debconf-helper.socket - debconf communication socket.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on snapd.session-agent.socket - REST API socket for snapd user session agent.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on dbus.socket - D-Bus User Message Bus Socket.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Reached target sockets.target - Sockets.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Reached target basic.target - Basic System.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Reached target default.target - Main User Target.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[2312]: Startup finished in 257ms.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[1]: Started user@1000.service - User Manager for UID 1000.
+192.168.107.133 | <30>Jan  3 10:29:54 ubserver3 systemd[1]: Started session-20.scope - Session 20 of User ubserver3.
+192.168.107.133 | <38>Jan  3 10:29:56 ubserver3 systemd-logind[825]: The system will power off at Sat 2026-01-03 10:30:56 UTC!
+192.168.107.133 | <38>Jan  3 10:29:56 ubserver3 systemd-logind[825]: Creating /run/nologin, blocking further logins...
+192.168.107.133 | <30>Jan  3 10:30:14 ubserver3 systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+192.168.107.133 | <30>Jan  3 10:30:14 ubserver3 systemd[1]: sysstat-collect.service: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:30:14 ubserver3 systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+192.168.107.133 | <38>Jan  3 10:30:29 ubserver3 systemd-logind[825]: System shutdown has been cancelled
+192.168.107.133 | <85>Jan  3 10:31:04 ubserver3 sudo: ubserver3 : TTY=tty1 ; PWD=/home/ubserver3 ; USER=root ; COMMAND=/usr/bin/systemctl -p
+192.168.107.133 | <86>Jan  3 10:31:04 ubserver3 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubserver3(uid=1000)
+192.168.107.133 | <86>Jan  3 10:31:04 ubserver3 sudo: pam_unix(sudo:session): session closed for user root
+192.168.107.133 | <85>Jan  3 10:31:16 ubserver3 sudo: ubserver3 : TTY=tty1 ; PWD=/home/ubserver3 ; USER=root ; COMMAND=/usr/bin/systemctl --poweroff
+192.168.107.133 | <86>Jan  3 10:31:16 ubserver3 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubserver3(uid=1000)
+192.168.107.133 | <86>Jan  3 10:31:16 ubserver3 sudo: pam_unix(sudo:session): session closed for user root
+192.168.107.133 | <85>Jan  3 10:31:29 ubserver3 sudo: ubserver3 : TTY=tty1 ; PWD=/home/ubserver3 ; USER=root ; COMMAND=/usr/bin/systemctl shutdown -p
+192.168.107.133 | <86>Jan  3 10:31:29 ubserver3 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ubserver3(uid=1000)
+192.168.107.133 | <86>Jan  3 10:31:29 ubserver3 sudo: pam_unix(sudo:session): session closed for user root
+192.168.107.133 | <37>Jan  3 10:31:42 ubserver3 systemd-logind[825]: The system will power off now!
+192.168.107.133 | <37>Jan  3 10:31:42 ubserver3 systemd-logind[825]: System is powering down.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: unattended-upgrades.service: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping session-20.scope - Session 20 of User ubserver3...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Removed slice system-modprobe.slice - Slice /system/modprobe.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target bluetooth.target - Bluetooth Support.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target graphical.target - Graphical Interface.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target multi-user.target - Multi-User System.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target getty.target - Login Prompts.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target sound.target - Sound Card.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target timers.target - Timer Units.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: apt-daily-upgrade.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped apt-daily-upgrade.timer - Daily apt upgrade and clean activities.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: apt-daily.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped apt-daily.timer - Daily apt download activities.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: dpkg-db-backup.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped dpkg-db-backup.timer - Daily dpkg database backup timer.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: e2scrub_all.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped e2scrub_all.timer - Periodic ext4 Online Metadata Check for All Filesystems.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: fstrim.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped fstrim.timer - Discard unused filesystem blocks once a week.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: fwupd-refresh.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped fwupd-refresh.timer - Refresh fwupd metadata regularly.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: logrotate.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped logrotate.timer - Daily rotation of log files.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: man-db.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped man-db.timer - Daily man-db regeneration.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: motd-news.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped motd-news.timer - Message of the Day.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: sysstat-collect.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped sysstat-collect.timer - Run system activity accounting tool every 10 minutes.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: sysstat-summary.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped sysstat-summary.timer - Generate summary of yesterday's process accounting.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: systemd-tmpfiles-clean.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: update-notifier-download.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped update-notifier-download.timer - Download data for packages that failed at package install time.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: update-notifier-motd.timer: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped update-notifier-motd.timer - Check to see whether there is a new version of Ubuntu available.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target network-online.target - Network is Online.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopped target time-set.target - System Time Set.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: lvm2-lvmpolld.socket: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Closed lvm2-lvmpolld.socket - LVM2 poll daemon socket.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: systemd-rfkill.socket: Deactivated successfully.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Closed systemd-rfkill.socket - Load/Save RF Kill Switch Status /dev/rfkill Watch.
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping ModemManager.service - Modem Manager...
+192.168.107.133 | <29>Jan  3 10:31:42 ubserver3 ModemManager[924]: <msg> caught signal, shutting down...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+192.168.107.133 | <29>Jan  3 10:31:42 ubserver3 ModemManager[924]: <msg> ModemManager is shut down
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping apport.service - automatic crash report generation...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping blk-availability.service - Availability of block devices...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping cron.service - Regular background program processing daemon...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping finalrd.service - Create final runtime dir for shutdown pivot root...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping fwupd.service - Firmware update daemon...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping getty@tty1.service - Getty on tty1...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 systemd[1]: Stopping getty@tty6.service - Getty on tty6...
+192.168.107.133 | <30>Jan  3 10:31:42 ubserver3 fwupd[1606]: 10:31:42.529 FuMain               Received SIGTERM
